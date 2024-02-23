@@ -17,7 +17,7 @@ Para executar esta API, você precisa ter instalado:
 | GET    | `/reactive-feign/movie/{id} ` | Buscar filme por ID específico  | false         |
 
 ## Retorno da consulta no formato JSON
-Após realizar a consulta do SWAPI, você pode visualizar o conteúdo retornado no formato JSO.
+Após realizar a consulta do SWAPI, você pode visualizar o conteúdo retornado no formato JSON.
 - obs: Abaixo um exemplo do retorno para pessoa e filme.
 ```json
 "results": [
